@@ -26,5 +26,17 @@ Key Findings
 Recommendation
 While the machine learning model showed potential, its improvement over the constant model was minimal. The Linear Regression model remains a strong candidate for accurately estimating gold recovery, but further enhancements in feature engineering or algorithm selection could bridge the gap for greater predictive power.
 
+Use BLANK_README.md to get started
 
+Build With: This is the list of the libraries used by me to run this project were pandas, stats, numpy, seaborn, matplotlib, train_test_split, scatter_matrix, warnings, LinearRegression,StandardScaler, mean_squared_error,
+DecisionTreeRegressor, cross_val_score
 
+Getting Started:
+
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple steps.
+
+Prequisites: This is an example of software and how to install them. VS Code
+
+Installation:
+
+Clone the repo:https://github.com/sohini8328/Optimizing_gold_recovery_model_Sprint_10.git
